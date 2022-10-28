@@ -5,4 +5,6 @@ ahreloco
  
  mido 1.75
  
+ en camara parece alto, pero en realidad no es tan alto
+ 
 adios!
